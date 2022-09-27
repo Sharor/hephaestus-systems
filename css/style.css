@@ -474,7 +474,7 @@ ul.btn li:last-child {
 
 .header {
      width: 100%;
-     background: #11aeef;
+     background:#1a1a3b;
      padding: 35px 30px;
      position: relative;
      z-index: 960;
@@ -492,7 +492,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: #11aeef;
+     background:#1a1a3b;
      padding: 75px 0 90px 0;
 }
 
@@ -535,6 +535,8 @@ ul.btn li:last-child {
 
 .images_box figure img {
      width: 100%;
+     margin: auto;
+     max-width:500px;
 }
 
 .carousel-indicators li {
@@ -579,7 +581,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #0eadef;
+     color: #105b7c;
 }
 
 .read_more {
